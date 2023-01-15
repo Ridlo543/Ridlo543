@@ -13,8 +13,8 @@ My name Ridlo
 
 <div style="text-align: center">
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Ridlo543&theme=onedark&show_icons=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridlo543&theme=onedark&layout=compact&langs_count=100&card_width=445)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Ridlo543&theme=radical&show_icons=true&count_private=true)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridlo543&theme=radical&layout=compact&langs_count=100&card_width=445)
 
 </div>
