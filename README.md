@@ -1,16 +1,13 @@
 ### Hi there 👋
-
+My name Ridlo 
 <!--
 **Ridlo543/Ridlo543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently studying on Universitas Sebelas Maret (UNS)
 - 🌱 I’m currently learning Javascript, flutter, 
-- 📫 How to reach me: ridloabdullahulinnuha543@gmail.com
+- 📫 How to reach me: ridloau1(instagram), ridloabdullahulinnuha543@gmail.com(gmail)
 - 😄 Pronouns: Ridlo
 - ⚡ Fun fact: nothing
--->
 
 ## Stats
 
