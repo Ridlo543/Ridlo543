@@ -5,12 +5,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently studying on Universitas Sebelas Maret (UNS)
+- 🌱 I’m currently learning Javascript, flutter, 
+- 📫 How to reach me: ridloabdullahulinnuha543@gmail.com
+- 😄 Pronouns: Ridlo
+- ⚡ Fun fact: nothing
 -->
+
+## Stats
+
+<div style="text-align: center">
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Ridlo543&theme=onedark&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridlo543&theme=onedark&layout=compact&langs_count=100&card_width=445&show_icons=true&count_private=true))
+
+</div>
