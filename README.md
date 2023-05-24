@@ -3,7 +3,7 @@ My name Ridlo
 <!--
 **Ridlo543/Ridlo543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently studying on Universitas Sebelas Maret (UNS)
+- 🔭 I’m currently studying on Sebelas Maret University (UNS)
 - 🌱 I’m currently learning Javascript, flutter, 
 - 📫 How to reach me: ridloau1(instagram), ridloabdullahulinnuha543@gmail.com(gmail)
 - 😄 Pronouns: Ridlo
