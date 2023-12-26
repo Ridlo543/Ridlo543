@@ -1,4 +1,12 @@
 ### Hi there 👋
+
+<div>
+ 
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ridlo543.)  
+ 
+</div>
+
+
 My name Ridlo 
 <!--
 **Ridlo543/Ridlo543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,9 +21,10 @@ My name Ridlo
 
 <div style="text-align: center">
 <!--
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Ridlo543&theme=radical&show_icons=true&count_private=true)
--->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Ridlo543&theme=radical&show_icons=true&count_private=true&hide_title=true)
+ -->
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridlo543&theme=radical&layout=compact&langs_count=100&card_width=445)
+
 
 </div>
