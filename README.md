@@ -20,9 +20,8 @@ My name Ridlo
 ## Stats
 
 <div style="text-align: center">
-<!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ridlo543&theme=radical&show_icons=true&count_private=true&hide_title=true)
- -->
+
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridlo543&theme=radical&layout=compact&langs_count=100&card_width=445)
 
