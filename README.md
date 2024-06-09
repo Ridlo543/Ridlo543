@@ -16,13 +16,13 @@
 
 - 🏢 I’m currently studying on **Sebelas Maret University**
 
-- 🌱 I’m currently learning **AstroJS, NextJS, ReactJS,Flutter, Kotlin**
+- 🌱 I’m currently learning **AstroJS, NextJS, ReactJS, Flutter, Kotlin**
 
 - 👯 I’m looking to collaborate on **Software Development**
 
 - 📫 How to reach me **ridloabdullahulinnuha543@gmail.com**
 
-- 📄 Know about my experiences [CV](https://www.dropbox.com/scl/fi/bb4eeq4ue67lwl4zfj36p/RidloAbdullahUlinnuha_CV-Internship.pdf?rlkey=gmixn5syvy8pcbobqvooj2q30&dl=0)
+- 📄 Know about my experiences [CV]([https://www.dropbox.com/scl/fi/bb4eeq4ue67lwl4zfj36p/RidloAbdullahUlinnuha_CV-Internship.pdf?rlkey=gmixn5syvy8pcbobqvooj2q30&dl=0](https://www.dropbox.com/scl/fi/l0unp8h2cjzk7jm227wxn/RidloAbdullahUlinnuha_CV_MSIB.pdf?rlkey=s03zgfq2d4wd3qnfn5q348agu&dl=0))
 
 - ⚡ Fun fact **I like grinding game**
 
