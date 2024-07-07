@@ -22,8 +22,6 @@
 
 - 📫 How to reach me **ridloabdullahulinnuha543@gmail.com**
 
-- 📄 Know about my experiences [CV](https://www.dropbox.com/scl/fi/l0unp8h2cjzk7jm227wxn/RidloAbdullahUlinnuha_CV_MSIB.pdf?rlkey=s03zgfq2d4wd3qnfn5q348agu&dl=0)
-
 - ⚡ Fun fact **I like grinding game**
 
 <h3 align="left">Connect with me:</h3>
