@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **AstroJS, NextJS, ReactJS, Flutter, Kotlin, Laravel**
 
-- 👯 I’m looking to collaborate on **Software Development**
+- 👯 I’m looking to collaborate on **Software Development**, **Data**, and **Machine Learning**
 
 - 📫 How to reach me **ridloabdullahulinnuha543@gmail.com**
 
