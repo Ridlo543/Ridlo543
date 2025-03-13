@@ -16,7 +16,7 @@
 
 - 🏢 I’m currently studying on **Sebelas Maret University**
 
-- 🌱 I’m currently learning **AstroJS, NextJS, ReactJS, Flutter, Kotlin, Laravel**
+- 🌱 I’m currently learning **AstroJS, NextJS, ReactJS, Flutter, Kotlin, Laravel, VUeJS**
 
 - 👯 I’m looking to collaborate on **Software Development**, **Data**, and **Machine Learning**
 
