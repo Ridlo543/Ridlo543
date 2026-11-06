@@ -26,7 +26,7 @@
 
 ## About Me
 
-I am an Indonesian software developer currently studying at **Sebelas Maret University**.  
+I am an Indonesian software developer and graduated from **Sebelas Maret University**.  
 I focus on building practical software across web development, mobile development, and machine learning.
 
 - Currently working on **Neo Edukasi**
